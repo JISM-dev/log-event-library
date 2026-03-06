@@ -1,0 +1,2 @@
+com.library.log.autoconfigure.LogJpaPackageAutoConfiguration
+com.library.log.autoconfigure.LogAutoConfiguration

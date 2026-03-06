@@ -1,0 +1,4 @@
+rootProject.name = 'log-library'
+
+include 'log-core'
+include 'log-spring-boot-starter'
