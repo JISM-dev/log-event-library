@@ -3,7 +3,7 @@ plugins {
 }
 
 group = 'com.library'
-version = '0.1.0'
+version = '0.1.1'
 
 def githubOwner = (findProperty('gpr.owner') ?: 'jism-dev').toString().toLowerCase()
 def githubRepo = (findProperty('gpr.repo') ?: 'log-event-library').toString()
